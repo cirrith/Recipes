@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false,
+  "showLineNumber": true
+}
