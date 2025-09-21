@@ -1,5 +1,5 @@
 ---
-servings: "4"
+servings: 4
 prepTime: 20 min
 cookTime: 40 min
 totalTime: 1 hr
@@ -9,7 +9,7 @@ categories:
   - soup
   - vegetarian
 collections:
-  -
+  - 
 cover: Extras/Attachments/vegetarianChili.png
 source:
 link: https://cookieandkate.com/vegetarian-chili-recipe/

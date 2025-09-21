@@ -1,5 +1,5 @@
 ---
-servings: "4"
+servings: 4
 prepTime: 24 hr
 cookTime: 20 min
 totalTime: 24 hr
@@ -9,7 +9,7 @@ categories:
   - dough
   - vegetarian
 collections:
-  - 
+  -
 cover:
 source:
 link:

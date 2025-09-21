@@ -1,5 +1,5 @@
 ---
-servings: "3"
+servings: 3
 prepTime: 15 min
 cookTime: 40 min
 totalTime: 55 min
@@ -8,7 +8,7 @@ courses:
 categories:
   - vegetarian
 collections:
-  - 
+  -
 cover:
 source:
 link:
@@ -39,7 +39,7 @@ tags:
 
 ## Directions
 
-1. Preheat oven to 375° 
+1. Preheat oven to 375°
 
 2. In large bowl mix flour and spices
 

@@ -1,5 +1,5 @@
 ---
-servings: 1 cup
+servings:
 prepTime: 10 min
 cookTime: 10 min
 totalTime: 3 hr 20 min

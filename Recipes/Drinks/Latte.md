@@ -1,5 +1,5 @@
 ---
-servings: "1"
+servings: 1
 prepTime: 8 min
 cookTime: 2 min
 totalTime: 10 min
@@ -8,7 +8,7 @@ courses:
 categories:
   - coffee
 collections:
-  - 
+  -
 cover:
 source:
 link:
@@ -33,7 +33,7 @@ tags:
 
 3. Pour expresso in glass
 
-4. Froth milk until 50% aeriated 
+4. Froth milk until 50% aeriated
 
 5. Pour hot milk until 1 inch left on top
 

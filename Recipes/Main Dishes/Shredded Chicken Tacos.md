@@ -1,5 +1,5 @@
 ---
-servings: "6"
+servings: 6
 prepTime: 10 min
 cookTime: 20 min
 totalTime: 30 min

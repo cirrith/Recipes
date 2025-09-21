@@ -1,5 +1,5 @@
 ---
-servings: "6"
+servings: 6
 prepTime: 5 min
 cookTime: 40 min
 totalTime: 45 min
@@ -8,7 +8,7 @@ categories:
 courses:
   - side
 collections:
-  -
+  - 
 cover: Extras/Attachments/balsamicRoastedBeets.png
 source:
 link:

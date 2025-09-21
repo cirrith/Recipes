@@ -1,5 +1,5 @@
 ---
-servings: "4"
+servings: 4
 prepTime: 5 min
 cookTime: 10 min
 totalTime: 15 min
@@ -9,7 +9,7 @@ categories:
   - sauce
   - pasta
 collections:
-  -
+  - 
 cover: Attachments/alfredoSauce.png
 source: Allrecipes.com
 link:

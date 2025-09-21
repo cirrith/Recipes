@@ -1,5 +1,5 @@
 ---
-servings: "6"
+servings: 6
 prepTime: 20 min
 cookTime: 4 hr 30 min
 totalTime: 4 hr 50 min
@@ -8,7 +8,7 @@ courses:
 categories:
   - beef
 collections:
-  - 
+  -
 cover: Extras/Attachments/potRoast.png
 source:
 link:
@@ -37,7 +37,7 @@ tags:
 
 2. Generously salt and pepper chuck roast
 
-3. Heat olive oil in large pot or Dutch oven over medium-high heat. 
+3. Heat olive oil in large pot or Dutch oven over medium-high heat.
 
 4. Add halved onions to pot, brown on both sides, and remove to plate.
 

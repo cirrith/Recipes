@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "930edfdda5e0c5d3",
+        "id": "b5e06f320911ec79",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d57d7431612e74",
+            "id": "b0bd0625ae35069d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Main Dishes/Tuna Spaghetti.md",
+                "file": "Recipes/Main Dishes/Shredded Chicken Tacos.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tuna Spaghetti"
-            }
-          },
-          {
-            "id": "e84bd72144fa6863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Main Dishes/Soups/Vegan Peanut Stew.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Vegan Peanut Stew"
-            }
-          },
-          {
-            "id": "0cb35d20229488c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Main Dishes/Soups/Vegetable Soup.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Vegetable Soup"
-            }
-          },
-          {
-            "id": "a3a0648be9ff8112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Book"
-            }
-          },
-          {
-            "id": "ed92e230ca1842da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Main Dishes/Baked Teriyaki Tofu.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Baked Teriyaki Tofu"
+              "title": "Shredded Chicken Tacos"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "baked",
+                "query": "ribs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Recipes/Main Dishes/Baked Teriyaki Tofu.md"
+                "file": "Recipes/Main Dishes/Shredded Chicken Tacos.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Baked Teriyaki Tofu"
+              "title": "File properties for Shredded Chicken Tacos"
             }
           }
         ],
@@ -254,53 +196,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed92e230ca1842da",
+  "active": "b0bd0625ae35069d",
   "lastOpenFiles": [
-    "Recipes/Main Dishes/Aloo Gobi (Cauliflower Potato Curry).md",
-    "Recipes/Main Dishes/Barbecue Ribs.md",
-    "Extras/Attachments/barbecueRibs.png",
+    "Recipes/Main Dishes/Stuffed Peppers.md",
+    "Recipes/Main Dishes/Stuffed Shells.md",
+    "Recipes/Main Dishes/Tofu Black Bean Enchiladas.md",
+    "Recipes/Main Dishes/Tomatoes and Feta with Chickpeas.md",
+    "Recipes/Main Dishes/Tuna Melt.md",
+    "Calendar/images-1-8-25/a2489b23-050f-5c8a-8e5d-12fdb9fdeea3_0.jpg",
+    "Calendar/images-1-8-25/9c786146-5c66-4197-8261-01fcd4d45590_0.jpg",
+    "Calendar/images-1-8-25/desktop.ini",
+    "Calendar/images-1-8-25/8c89ea52-09d2-4548-a7b6-5acd67df6af3_0.jpg",
+    "Calendar/images-1-8-25/9864cd60-af36-4919-9ee5-8b3501ed7e6d_0.jpg",
+    "Calendar/images-1-8-25/8f050a93-131c-4e1c-aa85-8d989e69ee87_0.jpg",
+    "Calendar/images-1-8-25/96038f71-1890-4ebc-b1f3-6968096f3eca_0.jpg",
+    "Calendar/images-1-8-25/8c82d402-7a17-4c2a-861f-1fbbaa8e643a_0.jpg",
+    "Calendar/images-1-8-25/74dfb73a-4be5-46fa-acd6-d5d9255b4183_0.jpg",
+    "Calendar/images-1-8-25/74dfb73a-4be5-46fa-acd6-d5d9255b4183_1.jpg",
+    "Calendar/images-1-8-25/8fb34103-2791-499b-a28b-d9b65929eb94_0.jpg",
+    "Calendar/2021/09 2021.pdf",
+    "Calendar/2021/11 2021.pdf",
+    "Calendar/2021/10 2021.pdf",
+    "Calendar/2021/desktop.ini",
+    "Calendar/2024/04 2024.pdf",
+    "Calendar/2021/12 2021.pdf",
+    "Calendar/2024/desktop.ini",
+    "Calendar/2024/02 2024.pdf",
+    "Calendar/2024/03 2024.pdf",
+    "Recipes/Main Dishes/Tuna Spaghetti.md",
+    "Recipes/Main Dishes/Vegetarian Chili.md",
+    "Recipes/Main Dishes/Vegetarian Lasagna.md",
+    "Recipes/Sauces/Alfredo Sauce.md",
+    "Recipes/Sauces/Bolognese Sauce.md",
+    "Recipes/Sauces/Marinara Sauce.md",
+    "Recipes/Sauces/Pesto.md",
+    "Recipes/Sauces/Teriyaki Sauce.md",
+    "Recipes/Side Dishes/Balsamic Roasted Beets.md",
+    "Recipes/Side Dishes/Funeral Potatoes.md",
+    "Recipes/Side Dishes/Mexican Rice.md",
+    "Recipes/Side Dishes/Stir-Fried Cabbage.md",
+    "Recipes/Main Dishes/Soups/Vegan Peanut Stew.md",
+    "Recipes/Main Dishes/Soups/Vegetable Soup.md",
     "Book.md",
     "Helpful.md",
-    "Recipes",
-    "Extras/Attachments/tunaMelt.png",
-    "Recipes/Main Dishes/Soups/Butternut Squash Chipotle Chili.md",
-    "Extras/Attachments/butternutSquashChipotleChili.png",
-    "Recipes/Main Dishes/Soups/Vegetable Soup.md",
-    "Extras/Attachments/vegetableSoup.png",
-    "Recipes/Main Dishes/Soups/Vegan Peanut Stew.md",
-    "Extras/Attachments/veganPeanutStew.png",
-    "Recipes/Main Dishes/Tuna Spaghetti.md",
-    "Extras/Attachments/tunaSpaghetti.png",
-    "Recipes/Main Dishes/Tomatoes and Feta with Chickpeas.md",
-    "Extras/Attachments/tomatoesAndFetaWithChickpeas.png",
-    "Recipes/Main Dishes/Tofu Black Bean Enchiladas.md",
-    "Extras/Attachments/tofuBlackBeanEnchiladas.png",
-    "Recipes/Sauces/Teriyaki Sauce.md",
-    "Extras/Attachments/teriyakiSauce.png",
-    "Recipes/Side Dishes/Stir-Fried Cabbage.md",
-    "Extras/Attachments/stirFriedCabbage.png",
-    "Recipes/Main Dishes/Stuffed Shells.md",
-    "Recipes/Main Dishes/Stuffed Peppers.md",
+    "Recipes/Main Dishes/Barbecue Ribs.md",
     "Recipes/Main Dishes/Soups/Black Bean Soup.md",
-    "Recipes/Main Dishes/Shredded Chicken Tacos.md",
-    "Recipes/Breakfast/Shakshuka.md",
-    "Recipes/Main Dishes/Sambal Marinade Salmon.md",
-    "Recipes/Main Dishes/Saag Paneer.md",
-    "Recipes/Main Dishes/Rigatoni and Mushrooms.md",
-    "Recipes/Main Dishes/Ratatouille.md",
-    "Recipes/Breakfast/Quiche.md",
-    "Recipes/Main Dishes/Soups/Potato Leek Soup.md",
-    "Recipes/Ingredients/Leek Top Broth.md",
-    "Recipes/Main Dishes/Soups/_index.md",
-    "Recipes/Ingredients",
-    "Recipes/Main Dishes/Pot Roast.md",
-    "Recipes/Main Dishes/Soups",
-    "Recipes/Drinks",
-    "Recipes/Breakfast",
-    "Recipes/Side Dishes",
-    "Recipes/Main Dishes",
-    "Untitled.base",
-    "Recipes",
-    "Extras/Attachments"
+    "Recipes/Main Dishes/Pad Thai.md",
+    "Recipes/Main Dishes/Aloo Gobi (Cauliflower Potato Curry).md",
+    "Recipes/Main Dishes/Baked Teriyaki Tofu.md"
   ]
 }

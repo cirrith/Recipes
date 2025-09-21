@@ -1,5 +1,5 @@
 ---
-servings: "4"
+servings: 4
 prepTime: 15 min
 cookTime: 15 min
 totalTime: 30 min
@@ -9,7 +9,7 @@ courses:
 categories:
   - sandwich
 collections:
-  -
+  - 
 cover: Extras/Attachments/tunaMelt.png
 source:
 link: https://www.delish.com/cooking/recipe-ideas/a26146096/tuna-melt-recipe/
