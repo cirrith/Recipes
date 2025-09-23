@@ -47,7 +47,7 @@ tags:
 
 4. While the crust is chilling, preheat oven to 375°F (190°C).
 
-5. Line the chilled pie crust with parchment paper. Fill with pie weights or dried beans. Make sure the weights are evenly distributed around the pie dish. Bake until the edges of the crust are starting to brown, about 15-16 minutes. Remove pie from the oven and carefully lift the parchment paper (with the weights) out of the pie. Prick holes all around the bottom crust with a fork. Return the pie crust to the oven. Bake until the bottom crust is just beginning to brown, about 7-8 minutes. Remove from the oven and set aside. (Crust can still be warm when you pour in the filling.
+5. Line the chilled pie crust with parchment paper. Fill with pie weights or dried beans. Make sure the weights are evenly distributed around the pie dish. Bake until the edges of the crust are starting to brown, about 15-16 minutes. Remove pie from the oven and carefully lift the parchment paper (with the weights) out of the pie. Prick holes all around the bottom crust with a fork. Return the pie crust to the oven. Bake until the bottom crust is just beginning to brown, about 7-8 minutes. Remove from the oven and set aside. (Crust can still be warm when you pour in the filling).
 
 6. Reduce oven temperature to 350°F (177°C).
 

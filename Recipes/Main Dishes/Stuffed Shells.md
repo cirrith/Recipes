@@ -42,7 +42,7 @@ tags:
 
 2. Place the spinach in a steamer basket and set over a pot with 1-inch of water. Bring the water to a simmer, cover, and let steam for 1 minute, until the spinach is wilted. Transfer to a strainer and squeeze out the excess water and chop the spinach.
 
-3. In a large pot of salted boiling water, cook the pasta shells for 10 minutes, until al dente. Drain and drizzle with a little olive oil to keep them from sticking together.
+3. In a large pot of salted boiling water, cook the pasta shells for 10 minutes, until al-dente. Drain and drizzle with a little olive oil to keep them from sticking together.
 
 4. In a medium bowl, combine the spinach with the ricotta, pecorino, garlic, oregano, lemon zest, red pepper flakes, salt, and several grinds of pepper.
 

@@ -39,19 +39,19 @@ tags:
 
 ## Directions
 
-1. Preheat oven to 375°
+1. Preheat oven to 375°.
 
-2. In large bowl mix flour and spices
+2. In large bowl mix flour and spices.
 
-3. Mix in buttermilk, should be thick
+3. Mix in buttermilk, should be thick.
 
-4. Add cauliflower to flour mix and mix till coated
+4. Add cauliflower to flour mix and mix till coated.
 
-5. Place cauliflower on parchment paper lined baking sheet
+5. Place cauliflower on parchment paper lined baking sheet.
 
-6. Bake for 20 min, flip then bake another 20 min
+6. Bake for 20 min, flip then bake another 20 min.
 
-7. Mix butter and sauce and shake combine with cooked cauliflower
+7. Mix butter and sauce and shake combine with cooked cauliflower.
 
 
 ## Notes

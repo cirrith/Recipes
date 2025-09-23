@@ -6,7 +6,7 @@ totalTime:
 courses:
 categories:
 collections:
-  - 
+  -
 cover:
 source:
 link:

@@ -33,15 +33,15 @@ tags:
 
 ## Directions
 
-1. Gather all ingredients.
+1. Gather all ingredients
 
-2. Measure flour into a large mixing bowl. Slowly whisk in milk. Whisk in eggs, sugar, vanilla extract, cinnamon, and salt until smooth.
+2. Measure flour into a large mixing bowl. Slowly whisk in milk. Whisk in eggs, sugar, vanilla extract, cinnamon, and salt until smooth
 
-3. Heat a lightly oiled griddle or frying pan over medium heat. Meanwhile, soak bread slices in milk mixture until saturated.
+3. Heat a lightly oiled griddle or frying pan over medium heat. Meanwhile, soak bread slices in milk mixture until saturated
 
-4. Working in batches, cook bread on the preheated griddle or pan until golden brown on each side.
+4. Working in batches, cook bread on the preheated griddle or pan until golden brown on each side
 
-5. Serve hot and enjoy.
+5. Serve hot and enjoy
 
 
 ## Notes

@@ -53,6 +53,7 @@ tags:
 
 4. Mince ginger and garlic. Keep this aside.
 
+
 ### Cook
 
 1. Heat oil in a pan and add cumin seeds. When they sizzle, add ginger garlic & saute for 30 seconds.
@@ -61,7 +62,7 @@ tags:
 
 3. Add the potatoes and green chilli. Stir fry for 2 to 3 mins. Cover and cook on a low to medium heat until they are half done. If required you can splash some water so they cook faster.
 
-4.  Keep stirring in between and cook covered.
+4. Keep stirring in between and cook covered.
 
 5. When they are slightly tender but still under cooked, add the cauliflower & stir fry for about 3 mins.
 

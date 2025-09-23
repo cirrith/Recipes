@@ -4,7 +4,7 @@ prepTime: 15 min
 cookTime: 30 min
 totalTime: 45 min
 courses:
-  - main
+  - ingredients
 categories:
   - vegetarian
   - soup
@@ -16,8 +16,6 @@ link: https://www.loveandlemons.com/potato-leek-soup/#wprm-recipe-container-5600
 tags:
   - recipe
 ---
-
-
 
 
 ## Ingredients

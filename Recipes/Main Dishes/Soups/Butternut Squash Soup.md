@@ -51,5 +51,5 @@ tags:
 
 ## Notes
 
-* Maybe add butter for fullness
-* Maybe add carrots for fullness
+- Maybe add butter for fullness
+- Maybe add carrots for fullness

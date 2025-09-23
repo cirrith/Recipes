@@ -40,7 +40,5 @@ tags:
 
 4. Fill the crepes. I love serving them warm, but they’re excellent at room temperature too. See my filling suggestions above this recipe or my recipe notes below. Place a few spoonfuls of your filling ingredient(s) in the center of the crepe. Fold both sides over the filling. Crepes are delicious with toppings, too, such as a drizzle of melted chocolate, melted peanut butter, or a dusting of confectioners’ sugar. Or try a savory sauce like pesto or hollandaise.
 
-5. Leftover unfilled crepes remain fresh in an airtight container in the refrigerator for 1 day or in the freezer for 1 month. Freeze each between small sheets of parchment paper so they don’t stick. (I usually layer them with parchment and freeze in a large zipped-top bag.) Thaw at room temperature before filling/enjoying. See reheating instructions in the recipe Notes below.
-
 
 ## Notes

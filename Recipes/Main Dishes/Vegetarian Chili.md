@@ -9,7 +9,7 @@ categories:
   - soup
   - vegetarian
 collections:
-  - 
+  -
 cover: Extras/Attachments/vegetarianChili.png
 source:
 link: https://cookieandkate.com/vegetarian-chili-recipe/

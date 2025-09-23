@@ -48,7 +48,7 @@ tags:
 > [!NOTE] To finish cooking in tomato sauce
 > After browning the meatballs, transfer them from the skillet to a simmering pot of marinara sauce. Cook 10-12 minutes.
 
-### To cook on the stovetop
+### To cook on the stove top
 
 1. Pour enough oil into a large skillet to coat the bottom and place over medium-high heat. When the pan is hot, add as many meatballs as will fit in the pan without crowding. Note: They should sizzle as soon as they hit they pan or the pan isn’t hot enough.
 

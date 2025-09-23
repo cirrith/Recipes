@@ -72,7 +72,7 @@ tags:
 
 3. When the spices begin to sizzle, add onions & fry them evenly stirring often until uniformly light brown but not burnt.
 
-4. Add chicken & saute until pale for 5 mins on a medium heat. 
+4. Add chicken & saute until pale for 5 mins on a medium heat.
 
 5. Cover & cook on a low flame until the chicken is soft cooked or tender. Saute to evaporate any excess moisture in the pot.
 
@@ -96,7 +96,7 @@ tags:
 
 **Cooker method** - Set the flame to medium high. Cover & place the whistle. Cook until you hear 1 whistle. Move the cooker away from the burner to stop cooking further. 
 
-7. Rest until the pressure drops naturally. Fluff up the chicken biryani with a fork. 
+7. Rest until the pressure drops naturally. Fluff up the chicken biryani with a fork.
 
 8. Serve from top to the bottom layer. Each serving gets biryani rice from top and chicken from the bottom layer.
 

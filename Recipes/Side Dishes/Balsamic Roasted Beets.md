@@ -8,7 +8,7 @@ categories:
 courses:
   - side
 collections:
-  - 
+  -
 cover: Extras/Attachments/balsamicRoastedBeets.png
 source:
 link:

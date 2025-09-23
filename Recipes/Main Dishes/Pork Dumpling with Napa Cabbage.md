@@ -58,6 +58,7 @@ tags:
 
 4. If using a machine: Add flour and water into the mixing bowl. Knead on low speed for 8 minutes or so until smooth. Cover and rest for 30-60 minutes.
 
+
 ### Filling
 
 1. Cut Napa cabbage into thin slices then cut across again into tiny pieces. Put minced cabbage into a colander then add salt. Mix well and leave to rest for 10 mins or so (place the colander in a sink or over a plate to collect extracted water).
@@ -66,15 +67,18 @@ tags:
 
 3. Use your hands to squeeze the cabbage in batches to remove any water extracted by the salt. Then put into the bowl. Add sesame oil and mix to combine. 
 
+
 ### Wrappers
 
 1. Divide the dough into three parts. Roll one part into a rope then cut into 10 equal sections (cover the rest to avoid drying out).
 
 2. Press each piece into a small disc with the palm of your hand. Use a rolling pin to flatten it into a thin disc (Please refer to the tutorial video below). Dust with flour if it sticks. Repeat to finished the rest of the dough.
 
+
 ### Assemble
 
 1. Place a spoonful of filling on the wrapper. Seal the wrapper using the technique you're most comfortable with.
+
 
 ### Cook
 

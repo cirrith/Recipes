@@ -29,7 +29,7 @@ tags:
 - 4 garlic cloves (pressed or minced)
 - Fine salt, to taste
 - 1 tbsps chili powder
-- ½+ tbsps chopped chipotle pepper in adobo* (start with ½ tbsps and add more to taste, I thought mine was just right with 1 tbsps)
+- ½ + tbsps chopped chipotle pepper in adobo* (start with ½ tbsps and add more to taste, I thought mine was just right with 1 tbsps)
 - 1 tsp ground cumin
 - ¼ tsp ground cinnamon
 - 1 bay leaf

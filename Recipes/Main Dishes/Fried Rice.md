@@ -45,7 +45,9 @@ tags:
 
 4. Increase heat to high, add in the remaining 1 ½ tablespoons of butter, and stir until melted. Immediately add the rice, green onions, soy sauce and oyster sauce (if using), and stir until combined.
 
-5. Continue sautéing for an additional 3 minutes to fry the rice, stirring occasionally.  (I like to let the rice rest for a bit between stirs so that it can crisp up on the bottom.)  Then add in the eggs and stir to combine. Remove from heat, and stir in the sesame oil until combined.  Taste and season with extra soy sauce, if needed.
+5. Continue sautéing for an additional 3 minutes to fry the rice, stirring occasionally. (I like to let the rice rest for a bit between stirs so that it can crisp up on the bottom.) 
+
+6. Add in the eggs and stir to combine. Remove from heat, and stir in the sesame oil until combined. Taste and season with extra soy sauce, if needed.
 
 
 ## Notes

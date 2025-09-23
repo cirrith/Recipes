@@ -28,7 +28,7 @@ tags:
 - 1 large carrot (peeled and sliced into thin rounds)
 - 6 garlic cloves (pressed or minced)
 - 3 tsp ground cumin
-- 1 tsp ancho chili powder
+- 1 tsp Ancho chili powder
 - ½ tsp red pepper flakes
 - 4 cans (15 ounces each) black beans (rinsed and drained)
 - 4 cups (32 ounces) low-sodium vegetable broth

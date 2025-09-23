@@ -33,9 +33,9 @@ tags:
 
 ## Directions
 
-1. Preheat the oven to 275°
+1. Preheat the oven to 275°.
 
-2. Generously salt and pepper chuck roast
+2. Generously salt and pepper chuck roast.
 
 3. Heat olive oil in large pot or Dutch oven over medium-high heat.
 

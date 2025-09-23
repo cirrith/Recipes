@@ -22,22 +22,22 @@ tags:
 ## Ingredients
 
 - 1 cup milk
-- 2 oz expresso
+- 2 oz espresso
 
 
 ## Directions
 
-1. Make expresso
+1. Make espresso.
 
-2. Microwave milk in 1 min intervals until warm
+2. Microwave milk in 1 min intervals until warm.
 
-3. Pour expresso in glass
+3. Pour espresso in glass.
 
-4. Froth milk until 50% aeriated
+4. Froth milk until 50% aerated.
 
-5. Pour hot milk until 1 inch left on top
+5. Pour hot milk until 1 inch left on top.
 
-6. Tilt glass to pour foam
+6. Tilt glass to pour foam.
 
 
 ## Notes

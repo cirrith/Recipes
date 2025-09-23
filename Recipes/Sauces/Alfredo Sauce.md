@@ -9,7 +9,6 @@ categories:
   - sauce
   - pasta
 collections:
-  - 
 cover: Attachments/alfredoSauce.png
 source: Allrecipes.com
 link:
@@ -36,7 +35,7 @@ tags: recipe
 
 3. Add garlic and cheese and whisk quickly, heating through.
 
-4. Stir in parsley and serve
+4. Stir in parsley and serve.
 
 
 ## Notes

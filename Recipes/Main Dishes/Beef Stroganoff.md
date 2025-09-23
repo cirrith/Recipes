@@ -74,6 +74,6 @@ tags:
 - boneless sirloin, sirloin steak tips
 - beef tenderloin
 
-I don’t recommend: beef round steak (aka topside), skirt, flat iron, hanger. 
+I don’t recommend: beef round steak (aka topside), skirt, flat iron, hanger.
 
-2. **Serving –** I like serving this with short pastas, rather than long pastas. Easier to eat. It’s also great with mashed potato, rice, polenta – anything that’s suitable to slop up all that gravy!
+1. **Serving –** I like serving this with short pastas, rather than long pastas. Easier to eat. It’s also great with mashed potato, rice, polenta – anything that’s suitable to slop up all that gravy!

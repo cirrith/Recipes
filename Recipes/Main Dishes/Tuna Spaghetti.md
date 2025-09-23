@@ -9,7 +9,7 @@ categories:
   - fish
   - pasta
 collections:
-  - 
+  -
 cover: Extras/Attachments/tunaSpaghetti.png
 source: Aunt Rose
 link:
@@ -34,17 +34,15 @@ tags:
 
 ## Directions
 
-1. Add tuna to large pan (soup-size) on medium heat and add oil if non-oil tuna
+1. Add tuna to large pan (soup-size) on medium heat and add oil if non-oil tuna.
 
-2. Add garlic, onions, and pepper, if using
+2. Add garlic, onions, and pepper, if using.
 
-3. Salt and pepper to taste
+3. Salt and pepper to taste.
 
-4. Cook until onions translucent
+4. Cook until onions translucent.
 
-5. Add tomato sauce, pasta, and water
-
-6. Serve
+5. Add tomato sauce, pasta, and water.
 
 
 ## Notes
