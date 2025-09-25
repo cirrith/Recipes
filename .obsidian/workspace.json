@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Main Dishes/Shredded Chicken Tacos.md",
+                "file": "Recipes/Side Dishes/Mashed Potatoes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Shredded Chicken Tacos"
+              "title": "Mashed Potatoes"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Recipes/Main Dishes/Shredded Chicken Tacos.md"
+                "file": "Recipes/Side Dishes/Mashed Potatoes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Shredded Chicken Tacos"
+              "title": "File properties for Mashed Potatoes"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "b0bd0625ae35069d",
   "lastOpenFiles": [
+    "Recipes/Main Dishes/Shrimp Scampi.md",
+    "Recipes/Side Dishes/Mashed Potatoes.md",
+    "Recipes/Main Dishes/Shredded Chicken Tacos.md",
     "Recipes/Main Dishes/Stuffed Peppers.md",
     "Recipes/Main Dishes/Stuffed Shells.md",
     "Recipes/Main Dishes/Tofu Black Bean Enchiladas.md",
@@ -240,9 +243,6 @@
     "Book.md",
     "Helpful.md",
     "Recipes/Main Dishes/Barbecue Ribs.md",
-    "Recipes/Main Dishes/Soups/Black Bean Soup.md",
-    "Recipes/Main Dishes/Pad Thai.md",
-    "Recipes/Main Dishes/Aloo Gobi (Cauliflower Potato Curry).md",
-    "Recipes/Main Dishes/Baked Teriyaki Tofu.md"
+    "Recipes/Main Dishes/Soups/Black Bean Soup.md"
   ]
 }
