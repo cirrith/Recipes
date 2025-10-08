@@ -10,11 +10,13 @@ categories:
   - pasta
 collections:
   -
+level: hard
 cover: Extras/Attachments/beefStroganoff.png
 source:
 link: https://www.recipetineats.com/beef-stroganoff/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/beefStroganoff.png)
@@ -34,7 +36,7 @@ tags:
 - Salt and pepper
 - 8 - 10 oz pasta or egg noodles of choice
 
-### Toppings
+### Serve With
 
 - Fresh chives (chopped)
 

@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover:
 source:
 link:
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/pizzaDough.png)

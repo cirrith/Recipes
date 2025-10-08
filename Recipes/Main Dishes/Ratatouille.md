@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/ratatouille.png
 source:
 link: https://tasty.co/recipe/ratatouille
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/ratatouille.png)

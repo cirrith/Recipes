@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   -
+level: easy
 cover:
 source:
 link:
 tags:
   - recipe
+  - main
 ---
 
 

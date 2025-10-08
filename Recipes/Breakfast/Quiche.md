@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/quiche.png
 source:
 link: https://sallysbakingaddiction.com/quiche-recipe/
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](Extras/Attachments/quiche.png)
@@ -29,7 +31,7 @@ tags:
 - 1 cup shredded or crumbled cheese such as feta, cheddar, goat cheese, or gruyere
 - Up to 2 cups add-ins (pre-cooked vegetables or meat)
 
-### Toppings
+### Serve With
 
 - Extra cheese
 - Chopped herbs

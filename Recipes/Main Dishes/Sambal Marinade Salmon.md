@@ -9,11 +9,13 @@ categories:
   - fish
 collections:
   -
+level: medium
 cover: Extras/Attachments/sambalMarinadeSalmon.png
 source: OMG Sambal store
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/sambalMarinadeSalmon.png)

@@ -8,11 +8,13 @@ courses:
 categories:
   - vegetarian
 collections:
+level: easy
 cover:
 source:
 link: https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/
 tags:
   - recipe
+  - ingredient
 ---
 
 
@@ -21,7 +23,7 @@ tags:
 - 2 cups uncooked sushi rice
 - 3 cups water
 - ½ cup rice vinegar or less to taste
-- 1 tbsps vegetable oil
+- 1 tbsp vegetable oil
 - ¼ cup white sugar or less to taste
 - 1 tsp salt or less to taste
 

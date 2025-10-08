@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/minestroneSoup.png
 source:
 link: https://cookieandkate.com/classic-minestrone-soup-recipe/#tasty-recipes-27592-jump-target
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/minestroneSoup.png)

@@ -10,11 +10,13 @@ categories:
   - soup
 collections:
   -
+level: easy
 cover: Extras/Attachments/blackBeanSoup.png
 source:
 link: https://cookieandkate.com
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/blackBeanSoup.png)
@@ -33,7 +35,7 @@ tags:
 - 4 cans (15 ounces each) black beans (rinsed and drained)
 - 4 cups (32 ounces) low-sodium vegetable broth
 
-### Toppings
+### Serve With
 
 - 4 cup fresh cilantro (chopped)
 - 1 to 2 tsp sherry vinegar or 2 tbsp fresh lime (to taste)

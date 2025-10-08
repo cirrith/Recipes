@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/pancakes.png
 source:
 link: www joshuaweissman.com
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](Extras/Attachments/pancakes.png)

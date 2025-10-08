@@ -10,11 +10,13 @@ categories:
   - soup
 collections:
   - freezable
+level: medium
 cover:
 source:
 link: https://www.loveandlemons.com/potato-leek-soup/#wprm-recipe-container-56008
 tags:
   - recipe
+  - ingredient
 ---
 
 
@@ -24,8 +26,8 @@ tags:
 - 12 cups water
 - 8 fresh thyme sprigs
 - 5 garlic cloves (smashed)
-- 1 tbsps sea salt
-- 1 tbsps black peppercorns
+- 1 tbsp sea salt
+- 1 tbsp black peppercorns
 
 
 ## Directions

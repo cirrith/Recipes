@@ -10,11 +10,13 @@ categories:
   - pasta
 collections:
   - freezable
+level: easy
 cover: Extras/Attachments/mushroomMacNCheese.png
 source:
 link: https://www.foodnetwork.com/recipes/giada-de-laurentiis/mushroom-mac-and-cheese-2330734
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/mushroomMacNCheese.png)
@@ -26,6 +28,7 @@ tags:
 - ¼ cup grated Parmesan
 - ¼ tsp salt
 - ¼ tsp freshly ground black pepper
+
 - 1 pound penne pasta
 - 3 tablespoons olive oil
 - 10 ounces assorted mushrooms, such as cremini, oyster, trumpet or buttons, sliced or torn into bite-size pieces (about 4 cups sliced)

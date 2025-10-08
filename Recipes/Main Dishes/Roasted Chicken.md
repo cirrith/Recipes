@@ -8,11 +8,13 @@ courses:
 categories:
   - chicken
 collections:
+level: easy
 cover: Extras/Attachments/roastedChicken.png
 source:
 link: https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/roastedChicken.png)

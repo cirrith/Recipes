@@ -7,13 +7,16 @@ courses:
   - main
 categories:
   - rice
+  - protein-flexible
 collections:
   - asian
+level: easy
 cover: Extras/Attachments/friedRice.png
 source:
 link: https://www.gimmesomeoven.com/fried-rice-recipe/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/friedRice.png)

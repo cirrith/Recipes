@@ -9,11 +9,13 @@ categories:
   - sauce
 collections:
   - asian
+level: easy
 cover: Extras/Attachments/teriyakiSauce.png
 source:
 link: https://www.connoisseurusveg.com
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/teriyakiSauce.png)

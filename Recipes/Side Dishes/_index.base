@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("side")
+    order:
+      - file.name
+      - level
+      - totalTime
+    sort:
+      - property: file.name
+        direction: DESC
+    image: note.cover

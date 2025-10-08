@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   - italian
+level: medium
 cover: Extras/Attachments/stuffedShells.png
 source:
 link: https://www.loveandlemons.com/stuffed-shells-recipe/#wprm-recipe-container-61127
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/stuffedShells.png)

@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - asian
+level: hard
 cover: Extras/Attachments/laotianNamKhao.png
 source:
 link: https://www.cookeatworld.com/nam-khao/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/laotianNamKhao.png)

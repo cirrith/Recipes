@@ -10,11 +10,13 @@ categories:
   - soup
 collections:
   -
+level: medium
 cover: Extras/Attachments/vegetableSoup.png
 source:
 link: https://thecozyapron.com/vegetable-soup/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/vegetableSoup.png)

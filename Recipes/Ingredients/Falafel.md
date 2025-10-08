@@ -10,11 +10,13 @@ categories:
   - vegan
 collections:
   - mediterranean
+level: medium
 cover: Extras/Attachments/falafel.png
 source:
 link: https://downshiftology.com/recipes/falafel/
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/falafel.png)
@@ -47,7 +49,7 @@ tags:
 
 4. Transfer the falafel mixture to a bowl and add the chickpea flour and baking soda. Stir together, then cover or add a lid and refrigerate the mixture for 30 minutes to one hour.
 
-5. Use your hands, an ice cream scoop or falafel scoop to form the falafel into balls or patties. If you find the mixture is too wet, you can add another tbsps of chickpea flour. If it's too dry and crumbly, you can add a tsp or two of water or lemon juice.
+5. Use your hands, an ice cream scoop or falafel scoop to form the falafel into balls or patties. If you find the mixture is too wet, you can add another tbsp of chickpea flour. If it's too dry and crumbly, you can add a tsp or two of water or lemon juice.
 
 6. Once the falafel are formed, you can cook them by your preferred method mentioned above. To deep fry the falafel, add about 3 inches of oil to a pot on medium heat. Heat the oil to 350F. Cook the falafel in batches (about 6-8 at a time) for 1-2 minutes or until golden.
 

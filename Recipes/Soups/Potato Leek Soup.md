@@ -7,14 +7,15 @@ courses:
   - main
 categories:
   - vegetarian
-  - soup
 collections:
   -
+level: medium
 cover: Extras/Attachments/potatoLeekSoup.png
 source:
 link: https://www.loveandlemons.com/potato-leek-soup/#wprm-recipe-container-56008
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/potatoLeekSoup.png)
@@ -33,6 +34,10 @@ tags:
 - 1 cup milk or heavy cream
 - 1 tbsp fresh lemon juice
 
+### Serve With
+
+- Chives (chopped)
+
 
 ## Directions
 
@@ -41,8 +46,6 @@ tags:
 2. Heat the butter in a large pot or Dutch oven over medium heat. Add the leeks, salt, and several grinds of pepper and cook for 8 to 10 minutes, stirring occasionally, or until the leeks are soft. If the leeks start browning before they soften, reduce the heat.
 
 3. Add the potatoes, garlic, broth, and thyme and simmer for 20 minutes, or until the potatoes are very soft. Use an immersion blender or transfer to an upright blender to blend until smooth. Return the soup to the pot and stir in the milk. Season to taste, adding the lemon juice, if desired.
-
-4. Garnish with chives and serve.
 
 
 ## Notes

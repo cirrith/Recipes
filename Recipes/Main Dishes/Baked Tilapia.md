@@ -9,11 +9,13 @@ categories:
   - fish
 collections:
   - baked
+level: easy
 cover: Extras/Attachments/bakedTilapia.png
 source:
 link: https://www.acouplecooks.com/baked-tilapia/#tasty-recipes-126571-jump-target
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/bakedTilapia.png)
@@ -34,7 +36,7 @@ tags:
 - ½ tsp smoked paprika
 - 2 tbsp drained capers
 
-### Toppings
+### Serve With
 
 - Fresh parsley or basil (finely chopped)
 - Fresh ground black pepper

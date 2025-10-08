@@ -9,11 +9,13 @@ courses:
   - side
 collections:
   -
+level: easy
 cover: Extras/Attachments/balsamicRoastedBeets.png
 source:
 link:
 tags:
   - recipe
+  - side
 ---
 
 ![](Extras/Attachments/balsamicRoastedBeets.png)
@@ -22,10 +24,10 @@ tags:
 ## Ingredients
 
 - 3 beets (peeled & diced ½" (about 3 cups))
-- 1 tbsps olive oil
+- 1 tbsp olive oil
 - ½ tsp sea salt
-- 1 tbsps balsamic vinegar
-- 1 tbsps honey
+- 1 tbsp balsamic vinegar
+- 1 tbsp honey
 
 
 ## Directions
@@ -34,7 +36,7 @@ tags:
 
 2. Grease a large baking sheet or dish, set aside.
 
-3. Toss beets with 1 tbsps olive oil and ½ tsp sea salt.
+3. Toss beets with 1 tbsp olive oil and ½ tsp sea salt.
 
 4. Spread onto a greased baking sheet in an even layer.
 

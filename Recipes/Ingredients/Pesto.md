@@ -10,11 +10,13 @@ courses:
   - main
 collections:
   - italian
+level: easy
 cover: Extras/Attachments/pesto.png
 source:
 link: https://www.loveandlemons.com/pesto-recipe/#wprm-recipe-container-43134
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/pesto.png)

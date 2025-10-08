@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - asian
+level: easy
 cover: Extras/Attachments/stirFriedCabbage.png
 source:
 link: https://www.allrecipes.com/recipe/174210/super-easy-stir-fried-cabbage/
 tags:
   - recipe
+  - side
 ---
 
 ![](Extras/Attachments/stirFriedCabbage.png)
@@ -21,11 +23,11 @@ tags:
 
 ## Ingredients
 
-- 1 tbsps vegetable oil
+- 1 tbsp vegetable oil
 - 2 cloves garlic (minced)
 - 1 pound shredded cabbage
-- 1 tbsps soy sauce
-- 1 tbsps Chinese cooking wine (Shaoxing wine)
+- 1 tbsp soy sauce
+- 1 tbsp Chinese cooking wine (Shaoxing wine)
 
 
 ## Directions

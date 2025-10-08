@@ -9,11 +9,13 @@ categories:
   - pork
 collections:
   - baked
+level: easy
 cover: Extras/Attachments/barbecueRibs.png
 source:
 link: https://www.allrecipes.com/recipe/22469/barbecue-ribs/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/barbecueRibs.png)

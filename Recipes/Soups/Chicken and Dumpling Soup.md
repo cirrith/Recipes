@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/chickenAndDumplingSoup.png
 source:
 link: https://www.smalltownwoman.com/chicken-dumpling-soup/#recipe
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/chickenAndDumplingSoup.png)

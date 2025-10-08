@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/mushroomCrepes.png
 source:
 link: https://www.jessicagavin.com/mushroom-crepes/#wprm-recipe-container-67138
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](Extras/Attachments/mushroomCrepes.png)
@@ -34,8 +36,8 @@ tags:
 
 - 2 tablespoons unsalted butter (or olive oil)
 - ½ cup red onion (or shallots, ¼" dice)
-- 1 tbsps fresh thyme (chopped, or 1 tsp dried)
-- 1 tbsps garlic (minced)
+- 1 tbsp fresh thyme (chopped, or 1 tsp dried)
+- 1 tbsp garlic (minced)
 - 16 ounces brown mushrooms (¼" thick slices, about 5 cups)
 - 1 tsp kosher salt
 - ½ tsp black pepper
@@ -44,7 +46,7 @@ tags:
 - 1 cup shredded gruyere cheese (or parmesan)
 - 2 tsp parsley (minced)
 
-### Toppings
+### Serve With
 
 - Parsley (minced)
 
@@ -86,7 +88,7 @@ tags:
 
 4. Remove the pan from the heat, stir in the cream and parsley. Season with salt and pepper to taste.
 
-5. Evenly fill each crepe with the mushroom mixture, about ⅓ cup, and sprinkle some gruyere cheese on top. Fold over each side to close. Garnish with parsley, serve immediately.
+5. Evenly fill each crepe with the mushroom mixture, about ⅓ cup, and sprinkle some gruyere cheese on top. Fold over each side to close.
 
 
 ## Notes

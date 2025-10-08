@@ -10,11 +10,13 @@ categories:
   - pasta
 collections:
   -
+level: easy
 cover: Extras/Attachments/tunaSpaghetti.png
 source: Aunt Rose
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/tunaSpaghetti.png)

@@ -9,11 +9,13 @@ courses:
   - main
 collections:
   - italian
+level: medium
 cover: Extras/Attachments/marinaraSauce.png
 source:
 link: https://www.allrecipes.com/recipe/11966/best-marinara-sauce-yet/
 tags:
   - recipe
+  - sauce
 ---
 
 ![](Extras/Attachments/marinaraSauce.png)

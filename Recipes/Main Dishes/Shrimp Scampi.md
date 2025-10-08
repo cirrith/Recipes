@@ -9,12 +9,14 @@ categories:
   - fish
   - pasta
 collections:
-  - 
+  -
+level: easy
 cover:
 source:
 link: https://cafedelites.com/garlic-butter-shrimp-scampi
 tags:
   - recipe
+  - main
 ---
 
 

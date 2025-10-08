@@ -10,11 +10,13 @@ categories:
   - soup
 collections:
   -
+level: medium
 cover:
 source:
 link: https://natashaskitchen.com/chicken-tortilla-soup-recipe/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/chickenTortillaSoup.png)
@@ -39,7 +41,13 @@ tags:
 - ¼ cup olive oil
 - 8 corn tortillas ((6" tortillas))
 - 1 large avocado (diced)
-- 1 lime (cut into wedges, to serve)
+
+### Serve With
+
+- Lime (cut into wedges)
+- Tortilla strips
+- Avocado
+- Cilantro
 
 
 ## Directions
@@ -59,8 +67,6 @@ tags:
 2. Add whole chicken breasts, corn, beans, chili powder, cumin, crushed tomatoes, salt, ¼ cup of cilantro and chicken broth. Bring to a boil and let simmer for at least 25 minutes.
 
 3. Remove chicken from the pot and shred it using 2 forks. Add shredded chicken back to the soup and simmer another 5 minutes then add lime juice.
-
-4. Serve the soup with some tortilla strips, pieces of avocado, fresh cilantro and lime wedges.
 
 
 ## Notes

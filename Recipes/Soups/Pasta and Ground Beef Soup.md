@@ -11,11 +11,13 @@ categories:
   - soup
 collections:
   -
+level: medium
 cover: Extras/Attachments/onePotPastaAndGroundBeefSoup.png
 source:
 link: https://www.averiecooks.com/30-minute-one-pot-beef-and-bowtie-soup/#wprm-recipe-container-73796
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/onePotPastaAndGroundBeefSoup.png)
@@ -33,7 +35,7 @@ tags:
 - pinch cayenne pepper (optional and to taste)
 - 12 ounces uncooked bowtie pasta
 - 3 to 4 cups fresh spinach (leaves torn in half if they are large (about 4 to 6 ounces))
-- 1 tbsps fresh basil (finely minced)
+- 1 tbsp fresh basil (finely minced)
 - 2 tablespoons lemon juice (optional but recommend)
 - freshly grated Parmesan cheese (optional for garnishing as desired)
 

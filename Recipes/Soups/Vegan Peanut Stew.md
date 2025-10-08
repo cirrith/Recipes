@@ -10,11 +10,13 @@ categories:
   - soup
 collections:
   -
+level: medium
 cover: Extras/Attachments/veganPeanutStew.png
 source:
 link:
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/veganPeanutStew.png)
@@ -34,11 +36,13 @@ tags:
 - 6 cups vegetable broth
 - ½ bunch collard greens (4-6 cups chopped)
 
-### Toppings
+### Serve With
 
 - ¼ bunch cilantro (chopped)
-- 4 ½ cups cooked brown rice
+- 4 cups cooked brown rice
 - ⅓ cup peanuts (chopped)
+- Cilantro
+- Sriracha
 
 
 ## Directions
@@ -52,8 +56,6 @@ tags:
 4. While the soup is simmering, prepare the collard greens. Use a sharp knife to remove each stem (cut along the side of each stem), then stack the leaves and cut them into ½-inch wide strips. Place the chopped collard greens in a colander and rinse very well
 
 5. Once the stew has simmered for 15-20 minutes and the sweet potatoes are very soft, stir in the collard greens. Let the stew simmer for about 5 minutes more, then begin to smash the sweet potatoes against the side of the pot to help thicken the stew.
-
-6. Finally, taste the stew and add salt or red pepper, if desired. Serve the stew with a scoop of cooked rice (about ¾ cup), a few chopped peanuts, fresh cilantro, and a drizzle of sriracha, if desired.
 
 
 ## Notes

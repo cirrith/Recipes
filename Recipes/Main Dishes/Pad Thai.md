@@ -10,11 +10,13 @@ categories:
   - protein-flexible
 collections:
   - asian
+level: medium
 cover: Extras/Attachments/padThai.png
 source:
 link: https://tastesbetterfromscratch.com/pad-thai/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/padThai.png)
@@ -38,10 +40,10 @@ tags:
 ### Sauce
 
 - 3 Tablespoons fish sauce
-- 2 tbsps low-sodium soy sauce
+- 2 tbsp low-sodium soy sauce
 - 5 Tablespoons light brown sugar
 - 2 Tablespoons rice vinegar or Tamarind Paste
-- 2 tbsps Sriracha hot sauce or more, to taste
+- 2 tbsp Sriracha hot sauce or more, to taste
 - 3 Tablespoons creamy peanut butter
 
 

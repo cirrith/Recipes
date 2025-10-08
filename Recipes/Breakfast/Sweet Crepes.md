@@ -8,11 +8,13 @@ courses:
 categories:
 collections:
   -
+level: medium
 cover: Extras/Attachments/crepes.png
 source:
 link: https://sallysbakingaddiction.com/make-crepes/
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](../../Extras/Attachments/sweetCrepes.png)
@@ -22,7 +24,7 @@ tags:
 
 - 3 Tablespoons unsalted butter, plus 3–4 more Tablespoons for the pan
 - 1 cup all-purpose flour
-- 1 tbsps granulated sugar
+- 1 tbsp granulated sugar
 - ⅛ tsp salt
 - ¾ cup whole milk (room temperature)
 - ½ cup water (room temperature)

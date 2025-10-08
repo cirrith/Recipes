@@ -10,11 +10,13 @@ categories:
   - potato
 collections:
   - italian
+level: medium
 cover: Extras/Attachments/gnocchi.png
 source:
 link: https://www.allrecipes.com/recipe/18465/gnocchi-i/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/gnocchi.png)

@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   -
+level: easy
 cover:
 source:
 link: https://cooking.nytimes.com/recipes/1018097-kimchi-fried-rice
 tags:
   - recipe
+  - main
 ---
 
 

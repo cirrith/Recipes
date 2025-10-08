@@ -10,11 +10,13 @@ categories:
   - beef
 collections:
   - asian
+level: easy
 cover: Extras/Attachments/beefLoMein.png
 source:
 link: https://momsdish.com/recipe/400/beef-lo-mein-recipe
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/beefLoMein.png)
@@ -48,7 +50,7 @@ tags:
 
 5. Add cooked noodles and toss everything together.
 
-6. Into a large dish, combine noodles, vegetables and beef. Toss to bring everything together and serve while it's still hot.
+6. Into a large dish, combine noodles, vegetables and beef. Toss to bring everything together.
 
 
 ## Notes

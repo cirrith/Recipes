@@ -9,11 +9,13 @@ categories:
   - bread
 collections:
   -
+level: easy
 cover: Extras/Attachments/frenchToast.png
 source:
 link: https://www.allrecipes.com/recipe/16895/fluffy-french-toast/
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](Extras/Attachments/frenchToast.png)
@@ -24,7 +26,7 @@ tags:
 - ¼ cup all-purpose flour
 - 1 cup milk
 - 3 eggs
-- 1 tbsps white sugar
+- 1 tbsp white sugar
 - 1 tsp vanilla extract
 - ½ tsp ground cinnamon
 - 1 pinch salt

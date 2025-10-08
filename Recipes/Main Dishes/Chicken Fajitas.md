@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   - mexican
+level: easy
 cover: Extras/Attachments/chickenFajitas.png
 source:
 link: https://downshiftology.com/recipes/chicken-fajitas/#wprm-recipe-container-39654
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/chickenFajitas.png)

@@ -9,10 +9,13 @@ categories:
   - sauce
   - pasta
 collections:
+level: medium
 cover: Attachments/alfredoSauce.png
 source: Allrecipes.com
 link:
-tags: recipe
+tags:
+  - recipe
+  - sauce
 ---
 
 [alfredoSauce](../../Extras/Attachments/alfredoSauce.png)
@@ -20,11 +23,11 @@ tags: recipe
 
 ## Ingredients
 
-° ¼ cup butter
-° 1 cup heavy cream
-° 1 clove garlic (crushed)
-° 1 ½ cups freshly grated Parmesan cheese
-° ⅛ cup fresh parsley (chopped)
+- ¼ cup butter
+- 1 cup heavy cream
+- 1 clove garlic (crushed)
+- 1 ½ cups freshly grated Parmesan cheese
+- ⅛ cup fresh parsley (chopped)
 
 
 ## Directions

@@ -10,11 +10,13 @@ categories:
   - rice
 collections:
   - indian
+level: question
 cover: Extras/Attachments/chickenBiryani.png
 source:
 link: https://www.indianhealthyrecipes.com/chicken-biryani-recipe/
 tags:
   - recipe
+  - main
   - improve
 ---
 

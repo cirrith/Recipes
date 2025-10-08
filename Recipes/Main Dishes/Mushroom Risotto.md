@@ -10,11 +10,13 @@ categories:
   - rice
 collections:
   -
+level: easy
 cover: Extras/Attachments/mushroomRisotto.png
 source:
 link: https://www.allrecipes.com/recipe/85389/gourmet-mushroom-risotto/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/mushroomRisotto.png)
@@ -41,15 +43,13 @@ tags:
 
 2. Meanwhile, warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Add portobello and white mushrooms; cook and stir until soft, about 3 minutes. Remove mushrooms and their liquid to a bowl; set aside.
 
-3. Add remaining 1 tbsps olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.
+3. Add remaining 1 tbsp olive oil to the saucepan. Stir in shallots and cook for 1 minute. Add rice; cook and stir until rice is coated with oil and pale, golden in color, about 2 minutes.
 
 4. Pour in wine, stirring constantly until wine is fully absorbed. Add ½ cup warm broth to the rice, and stir until the broth is absorbed.
 
 5. Continue adding broth, ½ cup at a time, stirring constantly, until the liquid is absorbed and the rice is tender, yet firm to the bite, about 15 to 20 minutes.
 
 6. Remove from heat. Stir in reserved mushrooms and their liquid, butter, chives, and Parmesan cheese.
-
-7. Season with salt and pepper and serve immediately.
 
 
 ## Notes

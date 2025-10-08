@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - indian
+level: question
 cover: Attachments/alooGobi.png
 source:
 link: https://www.indianhealthyrecipes.com/aloo-gobi-recipe/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/alooGobi.png)
@@ -39,6 +41,12 @@ tags:
 - ½ to ¾ tsp roasted cumin powder (jeera powder)
 - 1 tbsp kasuri methi (optional, dried fenugreek leaves)
 - ½ to 1 tsp amchur (optional, dried mango powder)
+
+### Serve With
+
+- Rice
+- Roti
+- Any bread.
 
 
 ## Directions
@@ -78,7 +86,7 @@ tags:
 
 11. If needed add little oil at this stage. It takes about 2 to 4 mins for the raw smell of tomatoes to go away.
 
-12. Sprinkle amchur if using. Finally garnish aloo gobi with coriander leaves. Sprinkle some lemon juice if you want. Serve with rice, roti or any bread.
+12. Sprinkle amchur if using. Finally garnish aloo gobi with coriander leaves. Sprinkle some lemon juice if you want.
 
 
 ## Notes

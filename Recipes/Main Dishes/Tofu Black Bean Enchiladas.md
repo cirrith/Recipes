@@ -10,11 +10,13 @@ categories:
 collections:
   - mexican
   - freezable
+level: medium
 cover: Extras/Attachments/tofuBlackBeanEnchiladas.png
 source:
 link: https://www.pillsbury.com/recipes/tofu-black-bean-enchiladas/1557d4a3-ac9a-4609-bdcf-dc79578dc079
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/tofuBlackBeanEnchiladas.png)
@@ -34,7 +36,7 @@ tags:
 - 1 can (10 oz) Enchilada Sauce
 - 8 oz. (2 cups) reduced-fat shredded Cheddar cheese
 
-### Toppings
+### Serve With
 
 - Sour cream
 
@@ -45,7 +47,7 @@ tags:
 
 2. Spoon ⅓ cup tofu mixture down center of each warm tortilla; roll up. Place, seam side down, in sprayed baking dish. Pour enchilada sauce over enchiladas. Sprinkle cheese over top.
 
-3. Bake at 350°F. for 20 to 30 minutes or until enchiladas are thoroughly heated and cheese is melted. Garnish with sour cream.
+3. Bake at 350°F. for 20 to 30 minutes or until enchiladas are thoroughly heated and cheese is melted.
 
 
 ## Notes

@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/mushroomBarleySoup.png
 source:
 link: https://www.themediterraneandish.com/simple-mushroom-barley-soup/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/mushroomBarleySoup.png)

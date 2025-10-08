@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   - indian
+level: medium
 cover: Extras/Attachments/butterChicken.png
 source:
 link: https://cafedelites.com/butter-chicken/#recipe
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/butterChicken.png)
@@ -26,7 +28,7 @@ tags:
 - 28 oz (800g) boneless and skinless chicken thighs or breasts (cut into bite-sized pieces)
 - ½ cup plain yogurt
 - 1 ½ tablespoons garlic (minced)
-- 1 tbsps ginger (minced or grated)
+- 1 tbsp ginger (minced or grated)
 - 2 tsp garam masala
 - 1 tsp turmeric
 - 1 tsp ground cumin
@@ -50,6 +52,12 @@ tags:
 - 1 tbsp sugar
 - ½ tsp kasoori methi (or dried fenugreek leaves)
 
+### Serve With
+
+- Cilantro (chopped)
+- Garlic butter rice
+- Naan bread
+
 
 ## Directions
 
@@ -66,8 +74,6 @@ tags:
 6. Remove from heat, scoop mixture into a blender and blend until smooth. You may need to add a couple tablespoons of water to help it blend (up to ¼ cup). Work in batches depending on the size of your blender.
 
 7. Pour the puréed sauce back into the pan. Stir the cream, sugar and crushed kasoori methi (or fenugreek leaves) through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.
-
-8. Garnish with chopped cilantro and serve with fresh, hot garlic butter rice and fresh homemade Naan bread!
 
 
 ## Notes

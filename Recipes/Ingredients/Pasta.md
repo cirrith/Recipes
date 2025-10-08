@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   - italian
+level: medium
 cover: Extras/Attachments/pasta.png
 source:
 link:
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/pasta.png)

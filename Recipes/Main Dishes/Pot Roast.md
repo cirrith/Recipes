@@ -9,11 +9,13 @@ categories:
   - beef
 collections:
   -
+level: easy
 cover: Extras/Attachments/potRoast.png
 source:
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/potRoast.png)

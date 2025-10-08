@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: easy
 cover: Extras/Attachments/vegetarianChili.png
 source:
 link: https://cookieandkate.com/vegetarian-chili-recipe/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/vegetarianChili.png)
@@ -41,7 +43,7 @@ tags:
 - 2 tablespoons fresh cilantro (chopped)
 - 1 to 2 tsp sherry vinegar or red wine vinegar or lime juice (to taste)
 
-### Toppings
+### Serve With
 
 - Cilantro
 - Sliced avocado

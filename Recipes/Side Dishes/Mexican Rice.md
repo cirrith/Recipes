@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   - mexican
+level: medium
 cover: Extras/Attachments/mexicanRice.png
 source:
 link: https://www.allrecipes.com/recipe/27072/mexican-rice-ii/
 tags:
   - recipe
+  - side
 ---
 
 ![](Extras/Attachments/mexicanRice.png)

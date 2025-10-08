@@ -10,11 +10,13 @@ categories:
   - pasta
 collections:
   - italian
+level: medium
 cover: Extras/Attachments/bologneseSauce.png
 source:
 link: https://anitalianinmykitchen.com/bolognese-sauce/#recipe
 tags:
   - recipe
+  - sauce
 ---
 
 ![](Extras/Attachments/bologneseSauce.png)

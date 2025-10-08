@@ -9,11 +9,13 @@ categories:
   - coffee
 collections:
   -
+level: easy
 cover:
 source:
 link:
 tags:
   - recipe
+  - drink
 ---
 
 

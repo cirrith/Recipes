@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - asian
+level: easy
 cover:
 source:
 link: www.connoisseurusveg.com
 tags:
   - recipe
+  - main
 ---
 
 

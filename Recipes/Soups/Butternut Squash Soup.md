@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: medium
 cover: Extras/Attachments/butternutSquashSoup.png
 source:
 link: https://www.loveandlemons.com/butternut-squash-soup/#wprm-recipe-container-42573
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/butternutSquashSoup.png)
@@ -27,15 +29,16 @@ tags:
 - ½ tsp sea salt
 - 1 (3-pound) butternut squash (peeled, seeded, and cubed)
 - 3 garlic cloves (chopped)
-- 1 tbsps fresh sage (chopped)
-- ½ tbsps fresh rosemary (minced)
+- 1 tbsp fresh sage (chopped)
+- ½ tbsp fresh rosemary (minced)
 - 1 tsp grated fresh ginger
 - 3 to 4 cups vegetable broth
 - Freshly ground black pepper
 - Fresh parsley (chopped)
 
-### Toppings
+### Serve With
 
+- Parsley
 - Toasted pepitas
 - Crusty bread
 
@@ -46,8 +49,7 @@ tags:
 
 2. Add the garlic, sage, rosemary, and ginger. Stir and cook 30 seconds to 1 minute, until fragrant, then add 3 cups of the broth. Bring to a boil, cover, and reduce heat to a simmer. Cook until the squash is tender, 20 to 30 minutes.
 
-3. Let cool slightly and pour the soup into a blender, working in batches if necessary, and blend until smooth. If your soup is too thick, add up to 1 cup more broth and blend. Season to taste and serve with parsley, pepitas, and crusty bread.
-
+3. Let cool slightly and pour the soup into a blender, working in batches if necessary, and blend until smooth. If your soup is too thick, add up to 1 cup more broth and blend.
 
 ## Notes
 

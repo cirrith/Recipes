@@ -9,11 +9,13 @@ categories:
   - pork
 collections:
   -
+level: easy
 cover:
 source:
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/honeyMustardPorkChops.png)

@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - indian
+level: medium
 cover: Extras/Attachments/saagPaneer.png
 source:
 link: https://www.foodnetwork.com/recipes/aarti-sequeira/saag-paneer1-1927603
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/saagPaneer.png)
@@ -28,7 +30,7 @@ tags:
 - 12 ounces paneer (cut into 1-inch cubes)
 - 1 (16-ounce package) frozen spinach (chopped)
 - 1 medium white onion (finely chopped)
-- 1 (1-inch thumb) ginger, peeled and minced (about 1 tbsps)
+- 1 (1-inch thumb) ginger, peeled and minced (about 1 tbsp)
 - 4 cloves garlic (minced)
 - 1 large green serrano chili (finely chopped, seeds removed if you don't like it spicy!)
 - ½ tsp garam masala

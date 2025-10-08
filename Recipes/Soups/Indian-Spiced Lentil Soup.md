@@ -10,12 +10,13 @@ categories:
   - vegetarian
   - vegan
 collections:
-  -
+level: medium
 cover: Extras/Attachments/indianSpicedLentilSoup.png
 source:
 link: https://jessicainthekitchen.com/easy-lentil-soup-recipe-vegan/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/indianSpicedLentilSoup.png)
@@ -23,20 +24,27 @@ tags:
 
 ## Ingredients
 
-- 1 ½ tbsps olive oil
+- 1 ½ tbsp olive oil
 - 1 large red onion (diced)
 - 4 stalks celery (diced)
 - 1 large carrot (diced, or two medium size carrots)
 - 5 cloves garlic (minced)
 - 26 ounces fresh tomatoes (chopped - you can also use a 28oz can diced tomatoes and drain the liquid)
 - 1 cup dried brown lentils (picked over, rinsed and dried)
-- 1 tbsps garam masala
+- 1 tbsp garam masala
 - salt & pepper to taste (I use ¾ tsp sea salt and ¼ tsp ground black pepper)
 - 6 cups vegetable broth
 - 2-3 sprigs thyme (to be removed at the end)
 - 1 cup kale (roughly chopped)
 - 2 tablespoons lime
-- Toppings (Optional: Oil drizzle, red wine vinegar, red pepper flakes, parsley, and/or sprinkle of zaatar Crusty bread)
+
+### Serve With
+
+- Oil drizzle
+- Red wine vinegar
+- Red pepper flakes
+- Parsley
+- Sprinkle of zaatar Crusty bread
 
 
 ## Directions
@@ -54,8 +62,6 @@ tags:
 6. Press the soup setting or blend until fully blended out. Pour back into soup pot and mix the soup together one more time to combine everything.
 
 7. Add in kale and lime juice and stir to combine.
-
-8. Serve the soup and top with your favorite toppings and enjoy!
 
 
 ## Notes

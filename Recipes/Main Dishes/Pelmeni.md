@@ -10,11 +10,13 @@ categories:
   - dumpling
 collections:
   - freezable
+level: easy
 cover: Extras/Attachments/pelmeni.png
 source:
 link: https://momsdish.com/recipe/76/pelmeni
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/pelmeni.png)
@@ -36,11 +38,11 @@ tags:
 - ½ tbsp salt (to taste)
 - 1 tsp pepper (to taste)
 
-### Toppings
+### Serve With
 
 - Unsalted Butter
 - Curry powder
-- Siracha
+- Sriracha
 - Parsley
 - Sour cream
 

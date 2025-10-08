@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - mediterranean
+level: easy
 cover: Extras/Attachments/tomatoesAndFetaWithChickpeas.png
 source: Bon Appetit
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/tomatoesAndFetaWithChickpeas.png)
@@ -32,7 +34,10 @@ tags:
 - 1 large handful arugula
 - ½ cup pitted green olives (torn)
 - Sherry vinegar or red wine vinegar (for drizzling)
-- Pita (for serving)
+
+### Serve With
+
+- Pita
 
 
 ## Directions
@@ -47,7 +52,7 @@ tags:
 
 5. Break feta into large pieces and tuck around. Broil on top rack until tomatoes and feta are blistered, 8-10 minutes. Let tomato-chickpea mixture cool 5 minutes.
 
-6. Scatter arugula and olives over tomato-chickpea mixture. Drizzle some vinegar and more oil over; season with pepper. Serve with pita.
+6. Scatter arugula and olives over tomato-chickpea mixture. Drizzle some vinegar and more oil over; season with pepper.
 
 
 ## Notes

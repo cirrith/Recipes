@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   - mexican
+level: easy
 cover: Extras/Attachments/shreddedChickenTacos.png
 source:
 link: https://littlesunnykitchen.com/shredded-chicken-tacos/#wprm-recipe-container-46242
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/shreddedChickenTacos.png)
@@ -30,8 +32,9 @@ tags:
 - 1 tsp chili powder
 - 1 tsp salt
 
-### Toppings
+### Serve With
 
+- Warmed tortillas or taco shells
 - Salsa
 - Sour cream
 - Avocado
@@ -50,8 +53,6 @@ tags:
 5. Add salsa, and just mix it in (if necessary, you can add a splash of water) and let it warm up.
 
 6. Add the chicken, and mix it in with the sauce. Simmer for 2-3 minutes.
-
-7. Serve in warmed up tortillas or taco shells with your favorite toppings.
 
 
 ## Notes

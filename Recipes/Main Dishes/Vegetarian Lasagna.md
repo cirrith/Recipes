@@ -11,11 +11,13 @@ categories:
 collections:
   - italian
   - freezable
+level: medium
 cover: Extras/Attachments/vegetarianLasagna.png
 source:
 link: https://www.loveandlemons.com/vegetarian-lasagna/#wprm-recipe-container-44365
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/vegetarianLasagna.png)
@@ -38,7 +40,7 @@ tags:
 - 3 garlic cloves (grated)
 
 
-### Toppings
+### Serve With
 
 - Fresh basil or parsley
 

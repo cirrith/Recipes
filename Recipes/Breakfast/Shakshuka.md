@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: easy
 cover: Extras/Attachments/shakshuka.png
 source:
 link: https://downshiftology.com/recipes/shakshuka/
 tags:
   - recipe
+  - breakfast
 ---
 
 ![](Extras/Attachments/shakshuka.png)
@@ -33,7 +35,7 @@ tags:
 - 6 large eggs
 - Salt and pepper (to taste)
 
-### Toppings
+### Serve With
 
 - 1 small bunch fresh cilantro (chopped)
 - 1 small bunch fresh parsley (chopped)

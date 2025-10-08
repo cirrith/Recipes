@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   - indian
+level: hard
 cover: Extras/Attachments/chickenMarsala.png
 source:
 link: https://www.onceuponachef.com/recipes/chicken-marsala.html
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/chickenMarsala.png)
@@ -35,7 +37,7 @@ tags:
 - ⅔ cup heavy cream
 - 2 tsp chopped fresh thyme
 
-### Toppings
+### Serve With
 
 - 2 tbsp fresh Italian parsley (chopped)
 
@@ -53,8 +55,6 @@ tags:
 5. Add the broth, Marsala, heavy cream, thyme, ¼ tsp salt, and ⅛ tsp of pepper; use a wooden spoon to scrape any brown bits from the pan into the liquid. Bring the liquid to a boil, then reduce the heat to medium and gently boil, uncovered, until the sauce is reduced by about half, slightly thickened, and darkened in color, 10 to 15 minutes (you’re going for a thin cream sauce; it won’t start to thicken until the very end of the cooking time).
 
 6. Add the chicken back to the pan, along with any juices that accumulated on the plate. Reduce the heat to low and simmer until the chicken is warmed through and the sauce thickens a bit more, 2 to 3 minutes.
-
-7. Sprinkle with parsley, if using, and serve.
 
 
 ## Notes

@@ -9,11 +9,13 @@ categories:
   - beef
 collections:
   -
+level: easy
 cover: Extras/Attachments/stuffedPeppers.png
 source:
 link: https://www.onceuponachef.com/recipes/stuffed-peppers.html#tabrecipe
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/stuffedPeppers.png)
@@ -42,7 +44,7 @@ tags:
 
 2. Tenderize the beef: In a medium bowl, using your hands, mash the beef with 1 tsp of the salt and the baking soda. Let sit for 20 minutes while you continue with the recipe.
 
-3. Line a 9x13-inch baking dish with aluminum foil for easy clean-up, if you like. Place the peppers, cut side up, in the baking dish; drizzle with 1 tbsps of the oil and sprinkle with the remaining ¼ tsp salt.
+3. Line a 9x13-inch baking dish with aluminum foil for easy clean-up, if you like. Place the peppers, cut side up, in the baking dish; drizzle with 1 tbsp of the oil and sprinkle with the remaining ¼ tsp salt.
 
 4. Roast the peppers for about 20 minutes, until slightly browned and tender-crisp. A bit of liquid will accumulate in the bottom of the peppers; that's okay.
 

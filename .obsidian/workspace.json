@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e06f320911ec79",
+        "id": "66bd8768fafdc49b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bd0625ae35069d",
+            "id": "bf04ddf5df1d25ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Recipes/Side Dishes/Mashed Potatoes.md",
-                "mode": "source",
-                "source": true
+                "file": "Recipes/Side Dishes/_index.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Mashed Potatoes"
+              "icon": "lucide-layout-grid",
+              "title": "_index"
             }
           }
         ]
@@ -171,14 +170,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Recipes/Side Dishes/Mashed Potatoes.md"
+                "file": "Recipes/Side Dishes/_index.base"
               },
               "icon": "lucide-info",
-              "title": "File properties for Mashed Potatoes"
+              "title": "File properties for _index"
+            }
+          },
+          {
+            "id": "806c3498b6e475e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,16 +205,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0bd0625ae35069d",
+  "active": "bf04ddf5df1d25ac",
   "lastOpenFiles": [
-    "Recipes/Main Dishes/Shrimp Scampi.md",
+    "Recipes/Sauces/_index.base",
+    "Recipes/Main Dishes/Tuna Noodle Casserole.md",
+    "Recipes/Main Dishes/_index.base",
+    "Extras/Attachments/tunaNoodleCasserole.png",
+    "Recipes/Soups/Potato Leek Soup.md",
+    "Recipes/Main Dishes/Baked Teriyaki Tofu.md",
+    "Recipes/Breakfast/_index.base",
+    "Book.base",
+    "Recipes/Soups/Vegetarian Chili.md",
+    "Recipes/Soups/Vegetable Soup.md",
+    "Recipes/Soups/Vegan Peanut Stew.md",
+    "Recipes/Soups/Pasta and Ground Beef Soup.md",
+    "Recipes/Soups/Mushroom Barley Soup.md",
+    "Recipes/Soups/Minestrone Soup.md",
+    "Recipes/Soups/Indian-Spiced Lentil Soup.md",
+    "Recipes/Soups/Ham and Potato Soup.md",
+    "Recipes/Soups/Chicken Tortilla Soup.md",
+    "Recipes/Soups/Chicken and Dumpling Soup.md",
+    "Recipes/Soups/Butternut Squash Soup.md",
+    "Recipes/Soups/Butternut Squash Chipotle Chili.md",
+    "Recipes/Soups/Black Bean Soup.md",
+    "Recipes/Soups/Beef Chili.md",
+    "Recipes/Soups/_index.base",
+    "Recipes/Side Dishes/Stir-Fried Cabbage.md",
+    "Recipes/Side Dishes/Mexican Rice.md",
     "Recipes/Side Dishes/Mashed Potatoes.md",
-    "Recipes/Main Dishes/Shredded Chicken Tacos.md",
-    "Recipes/Main Dishes/Stuffed Peppers.md",
-    "Recipes/Main Dishes/Stuffed Shells.md",
-    "Recipes/Main Dishes/Tofu Black Bean Enchiladas.md",
-    "Recipes/Main Dishes/Tomatoes and Feta with Chickpeas.md",
-    "Recipes/Main Dishes/Tuna Melt.md",
+    "Recipes/Side Dishes/Funeral Potatoes.md",
+    "Recipes/Side Dishes/Balsamic Roasted Beets.md",
+    "Recipes/Sauces/Marinara Sauce.md",
+    "Recipes/Sauces/Bolognese Sauce.md",
+    "Recipes/Sauces/Alfredo Sauce.md",
+    "Recipes/Side Dishes/_index.base",
+    "Recipes/Ingredients/_index.base",
+    "Recipes/Drinks/_index.base",
     "Calendar/images-1-8-25/a2489b23-050f-5c8a-8e5d-12fdb9fdeea3_0.jpg",
     "Calendar/images-1-8-25/9c786146-5c66-4197-8261-01fcd4d45590_0.jpg",
     "Calendar/images-1-8-25/desktop.ini",
@@ -216,33 +251,6 @@
     "Calendar/images-1-8-25/8c82d402-7a17-4c2a-861f-1fbbaa8e643a_0.jpg",
     "Calendar/images-1-8-25/74dfb73a-4be5-46fa-acd6-d5d9255b4183_0.jpg",
     "Calendar/images-1-8-25/74dfb73a-4be5-46fa-acd6-d5d9255b4183_1.jpg",
-    "Calendar/images-1-8-25/8fb34103-2791-499b-a28b-d9b65929eb94_0.jpg",
-    "Calendar/2021/09 2021.pdf",
-    "Calendar/2021/11 2021.pdf",
-    "Calendar/2021/10 2021.pdf",
-    "Calendar/2021/desktop.ini",
-    "Calendar/2024/04 2024.pdf",
-    "Calendar/2021/12 2021.pdf",
-    "Calendar/2024/desktop.ini",
-    "Calendar/2024/02 2024.pdf",
-    "Calendar/2024/03 2024.pdf",
-    "Recipes/Main Dishes/Tuna Spaghetti.md",
-    "Recipes/Main Dishes/Vegetarian Chili.md",
-    "Recipes/Main Dishes/Vegetarian Lasagna.md",
-    "Recipes/Sauces/Alfredo Sauce.md",
-    "Recipes/Sauces/Bolognese Sauce.md",
-    "Recipes/Sauces/Marinara Sauce.md",
-    "Recipes/Sauces/Pesto.md",
-    "Recipes/Sauces/Teriyaki Sauce.md",
-    "Recipes/Side Dishes/Balsamic Roasted Beets.md",
-    "Recipes/Side Dishes/Funeral Potatoes.md",
-    "Recipes/Side Dishes/Mexican Rice.md",
-    "Recipes/Side Dishes/Stir-Fried Cabbage.md",
-    "Recipes/Main Dishes/Soups/Vegan Peanut Stew.md",
-    "Recipes/Main Dishes/Soups/Vegetable Soup.md",
-    "Book.md",
-    "Helpful.md",
-    "Recipes/Main Dishes/Barbecue Ribs.md",
-    "Recipes/Main Dishes/Soups/Black Bean Soup.md"
+    "Calendar/2021/09 2021.pdf"
   ]
 }

@@ -10,11 +10,13 @@ categories:
   - pork
 collections:
   -
+level: medium
 cover: Extras/Attachments/hamAndPotatoSoup.png
 source:
 link: https://www.allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/
 tags:
   - recipe
+  - soup
 ---
 
 ![](Extras/Attachments/hamAndPotatoSoup.png)

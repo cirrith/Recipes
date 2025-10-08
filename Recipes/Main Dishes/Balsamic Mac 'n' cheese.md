@@ -11,11 +11,13 @@ categories:
 collections:
   - baked
   - freezable
+level: easy
 cover:
 source:
 link:
 tags:
   - recipe
+  - main
 ---
 
 

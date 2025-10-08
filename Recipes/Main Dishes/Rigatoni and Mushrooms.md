@@ -10,11 +10,13 @@ categories:
   - vegetarian
 collections:
   -
+level: easy
 cover: Extras/Attachments/rigatoniAndMushrooms.png
 source: reddit.com
 link:
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/rigatoniAndMushrooms.png)

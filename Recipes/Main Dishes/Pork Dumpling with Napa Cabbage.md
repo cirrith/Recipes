@@ -11,11 +11,13 @@ categories:
 collections:
   - freezable
   - asian
+level: easy
 cover: Extras/Attachments/porkDumplingWithNapaCabbage.png
 source:
 link: https://redhousespice.com/pork-cabbage-dumpling/#recipe
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/porkDumplingWithNapaCabbage.png)
@@ -40,7 +42,7 @@ tags:
 - 1 tbsp dried shrimp (soaked in 2 tbsp water until soft (see note 3))
 - ½ tbsp sesame oil
 
-### Toppings
+### Serve With
 
 - Homemade chili oil
 - Black rice vinegar

@@ -11,11 +11,13 @@ categories:
 collections:
   - italian
   - freezable
+level: easy
 cover: Extras/Attachments/meatballs.png
 source:
 link: https://familystylefood.com/classic-italian-meatballs-2/
 tags:
   - recipe
+  - ingredient
 ---
 
 ![](Extras/Attachments/meatballs.png)
@@ -28,7 +30,7 @@ tags:
 - 2 egg yolks
 - ½ cup grated pecorino Romano cheese
 - 2 garlic cloves (finely chopped or grated)
-- 1 tbsps Diamond kosher salt (OR 2 tsp Morton's kosher salt, OR 1 ½ tsp table salt)
+- 1 tbsp Diamond kosher salt (OR 2 tsp Morton's kosher salt, OR 1 ½ tsp table salt)
 - 1 tsp ground black pepper
 - 1 pound ground beef chuck
 - 1 pound ground pork (or veal)

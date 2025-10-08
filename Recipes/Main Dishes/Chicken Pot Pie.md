@@ -9,11 +9,13 @@ categories:
   - chicken
 collections:
   - american
+level: medium
 cover: Extras/Attachments/chickenPotPie.png
 source:
 link: https://www.allrecipes.com/recipe/26317/chicken-pot-pie-ix/
 tags:
   - recipe
+  - main
 ---
 
 ![](Extras/Attachments/chickenPotPie.png)

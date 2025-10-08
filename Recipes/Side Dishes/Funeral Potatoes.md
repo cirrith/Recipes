@@ -9,11 +9,13 @@ categories:
   - vegetarian
 collections:
   - american
+level: hard
 cover: Extras/Attachments/funeralPotatoes.png
 source:
 link: https://www.the-girl-who-ate-everything.com/funeral-potatoes/#comments
 tags:
   - recipe
+  - side
 ---
 
 ![](Extras/Attachments/funeralPotatoes.png)
@@ -27,6 +29,7 @@ tags:
 - 1 (10.5 ounce) can cream of chicken soup
 - ½ cup butter, melted
 - Small bunch of green onions (optional, sliced)
+
 - 3 cups Corn flakes
 - ¼ cup butter (melted)
 
