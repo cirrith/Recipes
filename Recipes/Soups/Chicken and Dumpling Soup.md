@@ -52,11 +52,15 @@ tags:
 
 ## Directions
 
-1. Melt butter over medium heat in a Dutch oven or stockpot. Add onion, celery, and carrots and cook until fragrant, approximately 4-5 minutes. Reduce heat to low. Add garlic, parsley, and poultry seasoning; cook for 1 minute, stirring constantly. Sprinkle in 1 ½ tbsp flour; cook for 1 minute, stirring constantly. Stir in chicken stock and bay leaf; simmer for 25 minutes.
+1. Melt butter over medium heat in a Dutch oven or stockpot. Add onion, celery, and carrots and cook until fragrant, approximately 4-5 minutes.
 
-2. Remove the bay leaf. Season with salt and pepper to taste. Add chicken and frozen peas and simmer for an additional 5 minutes.
+2. Reduce heat to low. Add garlic, parsley, and poultry seasoning; cook for 1 minute, stirring constantly.
 
-3. In a medium bowl, mix 1 cup flour, baking powder, sugar, and salt. Cut in butter with a pastry cutter. When crumbly, add milk and stir just until combined. Drop by small spoon-fulls into simmering soup. Cover and cook for 15 minutes without removing the lid.
+3. Sprinkle in 1 ½ tbsp flour; cook for 1 minute, stirring constantly. Stir in chicken stock and bay leaf; simmer for 25 minutes.
+
+4. Remove the bay leaf. Season with salt and pepper to taste. Add chicken and frozen peas and simmer for an additional 5 minutes.
+
+5. In a medium bowl, mix 1 cup flour, baking powder, sugar, and salt. Cut in butter with a pastry cutter. When crumbly, add milk and stir just until combined. Drop by small spoon-fulls into simmering soup. Cover and cook for 15 minutes without removing the lid.
 
 
 ## Notes
